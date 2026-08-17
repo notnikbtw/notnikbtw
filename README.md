@@ -1,31 +1,34 @@
 ### 👋 Hi there, I'm Nik
 
-Frontend developer. I build responsive, accessible web apps with React, TypeScript, and TailwindCSS, and I'm currently expanding into backend development with Node.js and NestJS. Open to frontend developer opportunities.
+Frontend developer currently expanding deep into **Backend Architecture (NestJS, PostgreSQL)**, **DevOps/CI workflows**, and declarative systems (**NixOS**). Learning in public and turning practical theory into production-ready code.
 
-### 📊 GitHub stats
+- **Currently deep diving into**: PostgreSQL optimization, Docker environments, and NixOS declarative configs
+- **Exploring**: Go and distributed systems
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nik91K&theme=dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
-
-
-### 📫 You can reach me at
-
-* [Portfolio](https://cv-website-olive-three.vercel.app/)
-* [LinkedIn](https://www.linkedin.com/in/nikita-koval-17680331b/)
-
-
-### 🌐 I can speak
-
-* 🇺🇦 Ukrainian
-* 🇺🇸 English
-
-### 🛠️ I have experience writing
+### 🛠️ Tech Stack
 
 * **Frontend**: TypeScript, JavaScript, React, Redux Toolkit, TailwindCSS, Shadcn/ui
-* **Backend**: Node.js (basic), NestJS, PostgreSQL, TypeORM, REST APIs, JWT authentication
-* **Tools & Workflow**: Git, Vite, Docker / Docker Compose, ESLint, Prettier
+* **Backend**: Node.js, NestJS, PostgreSQL, TypeORM, REST APIs, JWT authentication
+* **Tools & DevOps**: Git, Vite, Docker, Docker Compose, Linux / NixOS, ESLint, Prettier
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-* [Venue Booking - Front-End](https://github.com/Nik91K/venue-booking-frontend): platform for booking tables and seats at restaurants and venues - search, reservations, reviews, and Google Maps integration.
-* [Venue Booking - Back-End](https://github.com/Nik91K/venue-booking-system): REST API powering the venue booking platform - JWT auth with refresh tokens, reservation management, image uploads, reviews, and Swagger docs.
-* [Portfolio Website](https://github.com/Nik91K/cv-website): my personal site, built with React, TypeScript, and TailwindCSS. [Live demo](https://cv-website-olive-three.vercel.app/)# Nik91K
+* **[Venue Booking Platform](https://github.com/notnikbtw/venue-booking-frontend)** - Full-stack platform for booking tables and seats at restaurants. Features interactive search, reservations, reviews, and Google Maps integration.
+  * [Frontend Repository](https://github.com/notnikbtw/venue-booking-frontend) · [Backend API Repository](https://github.com/notnikbtw/venue-booking-backend)
+* **[Personal Portfolio](https://cv-website-olive-three.vercel.app/)** - Modern developer portfolio built with React, TypeScript, and TailwindCSS.
+  * [Live Demo](https://cv-website-olive-three.vercel.app/) · [Source Code](https://github.com/notnikbtw/cv-website)
+
+### 📊 GitHub Activity
+
+[![Hits](https://hits.sh/github.com/notnikbtw.svg?style=flat&color=0e75b6&label=views)](https://hits.sh/github.com/notnikbtw/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notnikbtw&theme=dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
+### 🌐 Languages
+
+* 🇺🇦 Ukrainian - Native
+* 🇺🇸 English - Intermediate / Professional working proficiency
+
+### 📫 Connect with me
+
+* [Portfolio](https://cv-website-olive-three.vercel.app/)
