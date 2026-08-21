@@ -32,3 +32,6 @@ Frontend developer currently expanding deep into **Backend Architecture (NestJS,
 ### 📫 Connect with me
 
 * [Portfolio](https://cv-website-olive-three.vercel.app/)
+* [Email](mailto:notnikbtw@proton.me)
+* [X (Twitter)](https://x.com/notnikbtw)
+* [Bluesky](https://bsky.app/profile/notnikbtw.bsky.social)
